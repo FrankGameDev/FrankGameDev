@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an average videogames player who is trying to become an awesome game developer.<br>Avoidaly is my first released game and it's available for android in teh google play store. <br>I'm actually learning unity 3d and i'm working as a full stack developer.<br>I will be proud and enthusiast to help someone with his/her game code!<br><br>Fun fact: I developed Avoidaly (which could be done in just 1/2 weeks) in 3 months, only because my computer sucks, but i never gave up. This is my first strenght.<\br>
+I'm an average videogames player who is trying to become an awesome game developer.<br>Avoidaly is my first released game and it's available for android. <br>I'm actually improving my unity skills, learning new things about C++ and Unreal Engine and i'm working as a full stack developer.<br>I will be proud and enthusiast to help someone with their game code!<br>
 
 
 ## 🌐 Socials:
