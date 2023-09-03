@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm an average videogames player who is trying to become an awesome game developer.<br>Avoidaly is my first released game and it's available for android. <br>I'm actually improving my unity skills, learning new things about C++ and Unreal Engine and i'm working as a full stack developer.<br>I will be proud and enthusiast to help someone with their game code!<br>
-[![itch.io](https://raw.githubusercontent.com/eevee/eev.ee/master/theme/static/images/logo-itch.png)[1]
+
+Click here for my Itch.io page!
+![itch.io](https://raw.githubusercontent.com/eevee/eev.ee/master/theme/static/images/logo-itch.png)[1]
 
 
 ## 🌐 Socials:
