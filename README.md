@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm an average videogames player who is trying to become an awesome game developer.<br>Avoidaly is my first released game and it's available for android. <br>I'm actually improving my unity skills, learning new things about C++ and Unreal Engine and i'm working as a full stack developer.<br>I will be proud and enthusiast to help someone with their game code!<br>
-![(https://raw.githubusercontent.com/eevee/eev.ee/master/theme/static/images/logo-itch.png)](https://frankgamedev.itch.io)
-
+[![itch.io](https://raw.githubusercontent.com/eevee/eev.ee/master/theme/static/images/logo-itch.png)[1]
 
 
 ## 🌐 Socials:
@@ -15,3 +14,7 @@ I'm an average videogames player who is trying to become an awesome game develop
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+
+
+[1]: https://frankgamedev.itch.io/
