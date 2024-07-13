@@ -8,7 +8,7 @@ I'm an average videogames player who is trying to become an awesome game develop
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,unity,unreal,java,python,cpp,mysql)](https://skillicons.dev)
 
-\![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
