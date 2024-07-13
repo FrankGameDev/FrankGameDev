@@ -10,6 +10,8 @@ I'm an average videogames player who is trying to become an awesome game develop
 
 [](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 [1]: https://frankgamedev.itch.io/
