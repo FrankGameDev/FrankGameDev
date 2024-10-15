@@ -6,7 +6,7 @@ I'm an average videogames player who is trying to become an awesome game develop
 [![itch.io](https://raw.githubusercontent.com/eevee/eev.ee/master/theme/static/images/logo-itch.png)][1]
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,unity,unreal,java,python,cpp,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,unity,unreal,java,python,cpp,mysql,angular)](https://skillicons.dev)
 
 [](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
