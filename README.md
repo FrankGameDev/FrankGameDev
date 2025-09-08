@@ -2,7 +2,7 @@
 I'm an average video game player who is trying to become an awesome game developer.<br>Chain reaction, with more than 10K downloads, is available on [Google Play Store](https://play.google.com/store/apps/details?id=com.FrankDev.ChainReaction). <br>I'm improving my unity skills, learning new things about C++ and Unreal Engine and I'm working as a full stack developer.<br>I will be proud and enthusiastic to help someone with their game code!<br>
 
 ## 🌐 You can find me here:
-[Web Portfolio](https://francesco-mauto.vercel.app/)
+[Web Portfolio](https://francesco-mauto.vercel.app/)  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/Francesco-Mauto) 
 [![itch.io](https://raw.githubusercontent.com/eevee/eev.ee/master/theme/static/images/logo-itch.png)][1]
 
