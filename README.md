@@ -48,7 +48,7 @@ I'm a dedicated game developer and software engineer with a passion for creating
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Francesco_Mauto-blue?style=for-the-badge)](https://francesco-mauto.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Francesco_Mauto-blue?style=for-the-badge)](https://francesco-mauto.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francesco_Mauto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Francesco-Mauto)
 [![itch.io](https://img.shields.io/badge/itch.io-FrankGameDev-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://frankgamedev.itch.io/)
 
